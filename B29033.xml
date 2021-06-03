@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all gentlemen, ladies, and others, whether of city, town, or country: Alexander Bendo wisheth all health and prosperity.</title>
+            <author>Rochester, John Wilmot, Earl of, 1647-1680.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29033</idno><idno type="EEBO-CITATION">99888626</idno>
+  <idno type="VID">195845</idno>
+  <idno type="EEBO-PROQUEST">2240903448</idno>
+  
+            <idno type="STC">Wing R1760A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[41]</idno>
+            <idno type="STC">ESTC R231334</idno>
+            <idno type="PROQUEST">ocm99888626</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888626e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195845)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all gentlemen, ladies, and others, whether of city, town, or country: Alexander Bendo wisheth all health and prosperity.</title>
+                  <author>Rochester, John Wilmot, Earl of, 1647-1680.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Alexander Bendo = John Wilmot, Earl of Rochester.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine, Popular --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195845:1"/>
+            <pb n="1" facs="tcp:195845:1"/>
+            <head>TO ALL <hi>Gentlemen, Ladies, and others,</hi> Whether of <hi>CITY, TOWN, or COUNTRY:</hi> ALEXANDER BENDO <hi>Wisheth all Health and Prosperity.</hi>
+            </head>
+            <p>WHEREAS this Famous Metropolis of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> (and were the Endeavours of its Worthy Inhabitants equal to their Power, Merit, and Virtue, I should not stick to denounce it, in a short time, the Metropolis of the whole World:) Whereas I say this City (as most great ones are) has ever been infested with a numerous company of such whose arrogant Confidence, backing their Ignorance, has enabled them to impose upon the people either premeditated Cheats, or at best the palpa<g ref="char:EOLhyphen"/>ble dull and empty mistakes of their self-deluded imagina<g ref="char:EOLhyphen"/>tions, in Physick, <hi>Chymical</hi> and <hi>Galenick,</hi> in <hi>Astrology, Phy<g ref="char:EOLhyphen"/>siognomy, Palmistry, Mathematicks, Alchimy,</hi> and even Go<g ref="char:EOLhyphen"/>vernment it self; the last of which I will not purpose to dis<g ref="char:EOLhyphen"/>course of, or meddle at all in, since it no ways belongs to my Trade or Vocation, as the rest do, which thanks to my God, I find much more safe, I think equally honest, and therefore more profitable.</p>
+            <p>But as to all the former, they have been so erroneously practis'd by many unlearned Wretches, whom Poverty and Neediness for the most part (if not the restless itch of de<g ref="char:EOLhyphen"/>ceiving) has forc'd to straggle and wander in unknown
+<pb n="2" facs="tcp:195845:2"/>paths, that even the Professions themselves, though origi<g ref="char:EOLhyphen"/>nally products of the most Learned, and Wise Mens La<g ref="char:EOLhyphen"/>borious Studies and Experiences, and by them left a Weal<g ref="char:EOLhyphen"/>thy and Glorious Inheritance for Ages to come, seem by this Bastard Race of Quacks and Cheats, to have been run out of all Wisdom, Learning, Perspicuousness, and Truth, with which they were so plentifully stock'd, and now run into a repute of meer Mists, Imaginations, Errors, and Deceits, such as in the management of these idle Professors indeed they were.</p>
+            <p>You will therefore (I hope) Gentlemen, Ladies, and others, deem it but just, that I who for some years have with all faithfulness and assiduity courted these Arts, and received such signal favours from them, that they have admitted me to the happy and full enjoyment of themselves, and trusted me with their greatest Secrets, should with an earnestness and concern more than ordinary, take their parts against these Impudent Fops, whose saucy, impertinent Addresses and Pretensions have brought such scandal upon their most immaculate Honours, and Reputations.</p>
+            <p>Besides, I hope you will not think I could be so impru<g ref="char:EOLhyphen"/>dent, that if I had intended any such foul play my self, I would have given you so fair warning by my severe obser<g ref="char:EOLhyphen"/>vations upon others, <hi>Qui alterum incusat probri, ipsum se intueri oportet,</hi> Plaut. However Gentlemen in a world like this, where Virtue is so exactly counterfeited, and Hypocri<g ref="char:EOLhyphen"/>sie so generally taken notice of, that every one arm'd with Suspicion, stands upon his Guard against it) 'twill be very hard for a Stranger especially to escape censure: All I shall say for my self on this score is this, if I appear to any one like a Counterfeit, even for the sake of that chiefly ought I to be construed a true man, who is the Counterfeits ex<g ref="char:EOLhyphen"/>ample, his original, and that which he imploys his industry
+<pb n="3" facs="tcp:195845:2"/>and pains to imitate and copy; is it therefore my fault if the Cheat by his Wits and Endeavours makes himself so like me, that consequently I cannot avoid resembling of him: Consider pray the Valiant and the Coward, the wealthy Merchant and the Bankrupt, the Politician and the Fool, they are the same in many things, and differ in but one alone: the Valiant man holds up his head, looks confi<g ref="char:EOLhyphen"/>dently round about him, wears a Sword, Courts a Lords Wife, and owns it; so does the Coward, one only point of Honour, and that's Courage (which like false Metal one only trial can discover) makes the distinction.</p>
+            <p>The Bankrupt walks the <hi>Exchange,</hi> Buys, Bargains, draws Bills, and accepts them with the richest, whilst Paper and Credit are current Coin; that which makes the diffe<g ref="char:EOLhyphen"/>rence is real Cash, a great defect indeed, and yet but one, and that the last found out, and still till then the least per<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>Now for the Politician, he is a grave, deliberating, close, prying Man: Pray are there not grave, deliberating, close, prying Fools? If then the difference betwixt all these (though infinite in effect) be so nice in all apparence, will you expect it should be other wise betwixt the false Physici<g ref="char:EOLhyphen"/>an, Astrologer, <hi>&amp;c.</hi> and the true? the first calls himself Learned Doctor, sends forth his Bills, gives Physick, and Councel, tells and foretells; the other is bound to do just as much, 'tis only your experience must distinguish be<g ref="char:EOLhyphen"/>twixt them, to which I willingly submit my self: I'le only say something to the honour of the Mountebanck, in case you discover me to be one.</p>
+            <p>Reflect a little what kind of creature 'tis, he is one then who is fain to supply some higher ability he pretends to, with Craft, he draws great companies to him by underta<g ref="char:EOLhyphen"/>king strange things which can never be effected. The Po<g ref="char:EOLhyphen"/>litician
+<pb n="4" facs="tcp:195845:3"/>(by his example no doubt) finding how the people are taken with specious, miraculous, impossibilities, plays the same game, protests, declares, promises I know not what things, which hee's sure can ne're be brought about; the people believe, are deluded and pleased, the expectation of a future good which shall never befal them draws their eyes off of a present evil: Thus are they kept and esta<g ref="char:EOLhyphen"/>blish'd in Subjection, Peace, and Obedience; he in Great<g ref="char:EOLhyphen"/>ness, Wealth, and Power: So you see the Politician is, and must be a Mountebank in State Affairs; and the Mountebank (no doubt if he thrives) is an errant Politician in Physick.</p>
+            <p>But that I may not prove too tedious, I will proceed faithfully to inform you, what are the things in which I pre<g ref="char:EOLhyphen"/>tend chiefly at this time to serve my Country.</p>
+            <p>First, I will (by the leave of God) perfectly cure that <hi>Labes Britannica,</hi> or grand English Disease, the Scurvy, and that with such ease to my Patient, that he shall not be sensible of the least inconvenience whilst I steal his Distem<g ref="char:EOLhyphen"/>per from him; I know there are many who treat this Dis<g ref="char:EOLhyphen"/>ease with <hi>Mercury, Antimony, Spirits,</hi> and <hi>Salts,</hi> being dan<g ref="char:EOLhyphen"/>gerous Remedies, in which I shall meddle very little, and with great caution, but by more secure, gentle, and less fallible Medicines, together with the observation of some few Rules in Diet, perfectly cure the Patient, having freed him from all the Symptomes, as looseness of the Teeth, Scorbutick Spots, want of Appetite, pains and lassitude in the Limbs and Joynts, especially the Legs. And to say truth, there are few Distempers in this Nation that are not, or at least proceed not originally from the Scurvy; which were it well rooted out, (as I make no question to do it of all those who shall come into my hands, there would not be heard of so many Gouts, Aches, Dropsies, and Con<g ref="char:EOLhyphen"/>sumptions: nay, even those thick and slimy Humours which
+<pb n="5" facs="tcp:195845:3"/>generate Stones in the Kidneys and Bladder, are for the most part off-springs of the Scurvy: It would prove tedious to set down all its malignant race; but those who address themselves here, shall be still informed by me in the na<g ref="char:EOLhyphen"/>tures of their distempers, and the grounds I proceed upon to their Cure: So will all reasonable people be satisfied that I treat them with care, honesty, and understanding; for I am not of their opinion who endeavour to render their Vo<g ref="char:EOLhyphen"/>cations rather mysterious, than useful and satisfactory.</p>
+            <p>I will not here make a Catalogue of Diseases and Di<g ref="char:EOLhyphen"/>stempers; it behoves a Physician I am sure to understand them all, but if any come to me (as I think there are very few that have escap'd my practice) I shall not be ashamed to own to my Patient, where I find my self to seek, and at least he shall be secure with me from having Experiments tried upon him; a priviledge he can never hope to enjoy, either in the hands of the Grand Doctors of the Court and Town, or in those of the lesser Quacks and Mountebanks.</p>
+            <p>It is fit though that I assure you of great Secresie as well as Care in Diseases, where it is requisite, whether Venereal or other, as some peculiar to Women, the Green Sickness, Weaknesses, Inflammations, or Obstructions in the Sto<g ref="char:EOLhyphen"/>mach, Reins, Liver, Spleen, <hi>&amp;c.</hi> (for I would put no word in my Bill that bears any unclean sound, it is enough that I make my self understood; I have seen Physicians Bills as Bawdy as <hi>Aretines</hi> Dialogues, which no man that walks warily before God can approve of) but I cure all Suffoca<g ref="char:EOLhyphen"/>tions in those parts producing Fits of the Mother, Convul<g ref="char:EOLhyphen"/>sions, Nocturnal Inquietudes, and other strange accidents not fit to be set down here, perswading young Women very often that their hearts are like to break for Love, when God knows the Distemper lies far enough from that place.</p>
+            <p>Likewise Barrenness (proceeding from any accidental
+<pb n="6" facs="tcp:195845:4"/>Cause, as it often falls out, and no natural Defect; for Nature is easily assisted▪ difficulty restored, but impossible to be made more perfect by Man than God himself had at first Created and bestow'd it) Cures of this kind I have done signal and many, for the which I doubt not but I have the good Wishes and hearty Prayers of many Families, who had else pin'd out their days under the deplorable and reproachful misfortunes of Barren Wombs, leaving plen<g ref="char:EOLhyphen"/>tiful Estates and Possessions to be Inherited by Strangers.</p>
+            <p>As to Astrological Predictions, Phisiognomy, Divinati<g ref="char:EOLhyphen"/>on by Dreams, and otherwise, (Palmistry I have not faith in, because there can no reason be alledged for it▪ my own Experience has convinc'd me more of their considerable effects, and marvellous operations, chiefly in the directions of future proceedings, to the avoiding of dangers that threaten, and laying hold of advantages that might offer themselves.</p>
+            <p>I say, my own practice has convinc'd me more than all the sage and wise Writings evtant of those matters, for I might say this for my self (did it not look like ostentation) that I have very seldom failed in my Predictions, and often been very serviceable in my Advice; how far I am capable in this way I am sure is not fit to be delivered in Print: Those who have no opinion of the truth of this Art, will not I suppose come to me about it; such as have I make no question of giving them ample satisfaction.</p>
+            <p>Nor will I be ashamed to set down here my willingness to practice rare Secrets (though somewhat collateral to my Profession) for the Help, Conservation, and Augmentati<g ref="char:EOLhyphen"/>on of Beauty and Comeliness: a thing created at first by God, chiefly for the Glory of his own Name, and then for the better establishment of mutual Love between Man and Woman: for when God had bestowed on man the Power
+<pb n="7" facs="tcp:195845:4"/>of Strength and Wisdom, and thereby rendred Woman liable to the subjection of his absolute will, it seem'd but requisite that she should be indued likewise in recompence, with some quality, that might beget in him admiration of her, and so enforce his tenderness and love.</p>
+            <p>The knowledge of these Secrets I gathered in my Tra<g ref="char:EOLhyphen"/>vels abroad (where I have spent my time ever since I was fifteen years old to this my nine and twentieth year) in <hi>France</hi> and <hi>Italy:</hi> Those that have Travell'd in <hi>Italy</hi> will tell you to what a Miracle Art does there assist Nature in the preservation of Beauty, how Women of forty bear the same Countenance with those of fifteen; Ages are no ways there distinguish'd by Faces, whereas here in <hi>England</hi> look a Horse in the mouth, and a Woman in the face, you pre<g ref="char:EOLhyphen"/>sently know both their ages to a year. I will therefore give you such Remedies, that without destroying your Com<g ref="char:EOLhyphen"/>plexion (as most of your Paints and Daubings do) shall render them purely Fair, clearing and preserving them from all Spots, Freckles, Heats, and Pimples, nay marks of the Small Pox, or any other accidental ones, so the Face be not seam'd nor scarr'd.</p>
+            <p>I will also cleanse, and preserve your Teeth white and round as Pearls fastning them that are loose, your Gums shall be kept intire, and red as Corral, your Lips of the same colour, and soft as you could wish your lawful Kisses.</p>
+            <p>I will likewise Administer that which shall cure the worst Breath, provided the Lungs be not totally perished and imposthumated, as also certain and infallible Remedies for those whose Breaths are yet untainted, so that nothing but either a very long Sickness or old Age it self shall ever be able to spoil them.</p>
+            <p>I will besides (if it be desired) take away from their Fat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss who have overmuch, and add flesh to those that want
+<pb n="8" facs="tcp:195845:5"/>it, without the least detriment to their Constitutions.</p>
+            <p>Now should <hi>Galen</hi> himself look out of his Grave, and tell me these were Baubles below the profession of a Phy<g ref="char:EOLhyphen"/>sician, I would boldly answer him, that I take more glory in preserving Gods Image, in its unblemish'd Beauty upon one good Face, then I should do in patching up all the de<g ref="char:EOLhyphen"/>cay'd Carkasses in the World.</p>
+            <p>They that will do me the favour to come to me, shall be sure from three of the Clock in the afternoon till eight at night at my Lodgin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in <hi>Tower-street,</hi> next door to the Sign of the Black Swan, at a Goldsmiths House to find</p>
+            <closer>
+               <signed>Their Humble Servant, <hi>Alexander Bendo.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
